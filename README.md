@@ -18,11 +18,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required Python libraries, including `speech_recognition` and `wikipedia`.
-3. Run the project by executing the `main.py` file.
+3. Run the project by executing the `search.py` file.
 4. Speak your query into the microphone, and the system will provide Wikipedia summaries in the terminal.
 
 ## Usage
-- Start the program by running `main.py`.
+- Start the program by running `search.py`.
 - Speak your query clearly into the microphone.
 - Wait for the system to recognize and process your query.
 - The retrieved Wikipedia summary will be displayed in the terminal.
